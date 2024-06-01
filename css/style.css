@@ -1,0 +1,10 @@
+body{
+	height: 100%vh;
+	background-color: red;
+}
+h1{
+	font-size: 60px;
+	text-align: center;
+	color: white;
+
+}
